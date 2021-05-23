@@ -1,0 +1,10 @@
+final String uid='uid';
+final String name='name';
+final String image='image';
+final String profession='profession';
+final String about='about';
+final String type='type';
+final String linkedInUrl='linkedInUrl';
+final String githubUrl='githubUrl';
+final String mediumUrl='mediumUrl';
+final String timeStampVar='timeStamp';
